@@ -1,0 +1,7 @@
+streamlit
+firebase-admin
+pyotp
+argon2-cffi
+python-dotenv
+cryptography
+watchdog
