@@ -1,5 +1,6 @@
 Flask
 gunicorn
+flask_sqlalchemy
 streamlit
 python-dotenv
 requests
