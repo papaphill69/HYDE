@@ -1,6 +1,5 @@
 Flask
 gunicorn
-flask_sqlalchemy
 streamlit
 python-dotenv
 requests
@@ -34,3 +33,9 @@ filelock
 idna
 charset-normalizer
 certifi
+flask_sqlalchemy
+flask_login
+
+
+
+
