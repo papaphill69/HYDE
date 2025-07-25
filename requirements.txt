@@ -35,6 +35,7 @@ charset-normalizer
 certifi
 flask_sqlalchemy
 flask_login
+flask_wtf==1.2.1
 
 
 
