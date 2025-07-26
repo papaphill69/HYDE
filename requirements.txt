@@ -35,7 +35,8 @@ charset-normalizer
 certifi
 flask_sqlalchemy
 flask_login
-flask_wtf==1.2.1
+flask_mail==0.9.1
+
 
 
 
